@@ -134,10 +134,7 @@ These examples display unique functionalities available in PySpark. They cover a
 
 
 
-<hr>
 
-## Contact
-Created by [@hyunjoonbok](https://www.linkedin.com/in/hyunjoonbok/) - feel free to contact me!
 
 
 ## Resource 
